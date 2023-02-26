@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685934020979",
+    "project_id": "calm-sleep-3bfd2",
+    "storage_bucket": "calm-sleep-3bfd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685934020979:android:94f992f83b25ce9b2ddd06",
+        "android_client_info": {
+          "package_name": "com.demo_by_abhinav.calmsleep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685934020979-p9pjfbvua90ss5muusst1dta3ilf27lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33qwwKQsRY98s6CI429wVLfeN2V1x4MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685934020979-p9pjfbvua90ss5muusst1dta3ilf27lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+{
+  "sleep_type": [
+    {
+      "benefits": "Allowing for more rest and relaxation, it can also disrupt your natural sleep cycle and make it harder to fall asleep at night.",
+      "desc": "Sleeping in the morning can refer to either sleeping later than usual or taking a nap during the morning hours. if you are regularly sleeping in the morning to compensate for not getting enough sleep at night, it may be a sign that you need to adjust your sleep habits and prioritize getting more restful sleep at night.",
+      "drawbacks": "Nothing",
+      "name": "morning",
+      "time": "3:00 am"
+    },
+    {
+      "benefits": "Increased alertness and productivity: A nap can help to improve cognitive function, memory retention, and overall alertness, which can help you to be more productive and efficient in your work or daily activities, Improved mood: A nap can help to improve your mood and reduce stress and anxiety levels.",
+      "desc": "Taking a nap during the afternoon or around noon is a common practice in many cultures and can have several benefits, including improving alertness, reducing fatigue, and enhancing mood.",
+      "drawbacks": "Disrupted sleep at night: If you nap for too long or too late in the day, it can interfere with your ability to fall asleep at night, leading to sleep disturbances or insomnia. Sleep inertia: If you nap for too long, you may experience sleep inertia, a feeling of grogginess and disorientation upon waking up.",
+      "name": "noon",
+      "time": "1:00 pm"
+    },
+    {
+      "benefits": "Reduced stress and anxiety: If you're feeling stressed or anxious, an evening nap or sleep can help to reduce tension and promote relaxation. Improved mood: Evening sleep can help to improve your mood and reduce feelings of irritability or moodiness. Increased energy: If you're feeling tired or low on energy, an evening nap or sleep can help to boost your energy levels and help you feel more alert.",
+      "desc": "Evening sleep typically refers to sleep that occurs during the evening hours, usually between 6 pm and midnight. While some people may naturally feel sleepy and inclined to sleep during this time, evening sleep can also disrupt your natural sleep cycle and make it harder to fall asleep at night.",
+      "drawbacks": "Disrupted sleep at night: If you nap or sleep for too long or too late in the evening, it can interfere with your ability to fall asleep at night, leading to sleep disturbances or insomnia. Reduced productivity: If you nap or sleep for too long, it can reduce your overall productivity and disrupt your daily routine.",
+      "name": "evening",
+      "time": "5:00 pm"
+    },
+    {
+      "benefits": "Physical restoration and recovery: During the night, the body repairs and restores tissues and organs, releases growth hormones, and strengthens the immune system. Cognitive function and memory retention: Night sleep plays a crucial role in consolidating memories, promoting learning, and supporting cognitive function.",
+      "desc": "Night sleep refers to the sleep that occurs during the nighttime hours, usually between 10 pm and 6 am. This is the period of the day when the body's natural sleep-wake cycle is most aligned with the circadian rhythm, a natural 24-hour cycle that regulates various physiological processes in the body.",
+      "drawbacks": "Sleep disorders: Various sleep disorders, such as insomnia, sleep apnea, or restless leg syndrome, can disrupt night sleep and lead to sleep deprivation or sleep disturbances. Sleep disruptions: External factors, such as noise, light, or temperature, can disrupt night sleep and interfere with the body's natural sleep-wake cycle.",
+      "name": "night",
+      "time": "10:00 pm"
+    }
+  ]
+}
