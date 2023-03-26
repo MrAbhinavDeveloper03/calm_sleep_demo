@@ -13,17 +13,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.StringRes;
 import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.demo_by_abhinav.calmsleep.Data.DataModel;
 import com.demo_by_abhinav.calmsleep.R;
-
-
 import java.util.ArrayList;
-import java.util.List;
 
 public class Calm_Adapter extends RecyclerView.Adapter<Calm_Adapter.ViewHolder> {
 
